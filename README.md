@@ -1,6 +1,6 @@
 # Montreal Interactive Map
 
-An interactive map application of Montreal, Quebec built with React, TypeScript, and OpenStreetMap.
+An interactive map application of the entire planet built with React, TypeScript, and OpenStreetMap.
 
 ## Prerequisites
 
